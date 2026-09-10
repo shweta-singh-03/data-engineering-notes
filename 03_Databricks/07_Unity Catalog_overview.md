@@ -1,7 +1,7 @@
 # Unity Catalog — The Backbone of Databricks (Study Notes)
 
 > Topic: What Unity Catalog is, why it's considered "non-negotiable" for working with Databricks today, and its top 6 capabilities (Data Lineage, Access Control, Data Discovery, Data Quality Monitoring, Data Classification, Data Sharing).
-> Includes: Interview Questions & DP-750 style exam questions at the end.
+> Includes: Interview Questions & DP-750 style exam questions at the end
 
 ---
 
