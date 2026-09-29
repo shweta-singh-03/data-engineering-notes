@@ -276,25 +276,6 @@ Think of LDP like this:
 
 ---
 
-# 10. What this lecture does NOT cover yet
-
-This is only the **10,000-foot overview**, so don't add detailed implementation notes yet.
-
-The lecture has not yet covered in detail:
-
-```text
-❌ Pipeline syntax
-❌ Pipeline configuration
-❌ Streaming implementation
-❌ Data quality expectations
-❌ Dependencies
-❌ Materialized views
-❌ Streaming tables
-❌ Pipeline execution details
-```
-
-Those should come from the upcoming lectures.
-
 ---
 
 # ⭐ Notes-ready Cheat Sheet
@@ -303,8 +284,7 @@ Those should come from the upcoming lectures.
 LAKEFLOW DECLARATIVE PIPELINES (LDP)
 
 Definition:
-→ Declarative framework for building
-  batch + streaming data pipelines.
+→ Declarative framework for building batch + streaming data pipelines.
 
 Languages:
 → Python
@@ -321,7 +301,7 @@ Supports:
 Terminology:
 → LDP = Lakeflow Declarative Pipelines
 → SDP = Spark Declarative Pipelines
-  (open-source Spark terminology mentioned in lecture)
+  (open-source Spark terminology)
 
 Python:
 → Uses familiar Spark/PySpark transformation concepts.
@@ -347,7 +327,4 @@ Mental model:
 > **2. It supports both batch and streaming pipelines.**
 > **3. It uses Python and SQL, so your existing Spark/PySpark knowledge remains relevant.**
 
-### ⭐ One-line interview answer
-
-> **Lakeflow Declarative Pipelines is a Databricks declarative framework for building batch and streaming data pipelines using Python and SQL, where you define the desired data processing logic rather than manually managing every execution step.**
 
