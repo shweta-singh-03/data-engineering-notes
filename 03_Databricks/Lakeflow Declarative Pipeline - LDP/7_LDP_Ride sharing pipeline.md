@@ -1010,3 +1010,5 @@ GOLD STAR SCHEMA
 ```
 
 **Important:** this lecture is primarily the **architecture/design phase**. The actual transformations, joins, OBT construction, and star-schema implementation come in the following practical lectures, so don't try to memorize code from this one.
+<img width="1038" height="1574" alt="image" src="https://github.com/user-attachments/assets/7d0360bb-4bd7-49e4-a0c8-ec2f2f9036e2" />
+
