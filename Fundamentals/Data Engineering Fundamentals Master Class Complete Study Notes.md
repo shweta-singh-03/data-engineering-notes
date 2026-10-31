@@ -1,6 +1,5 @@
-# Data Engineering Fundamentals Master Class: Complete Study Notes
+# Data Engineering Fundamentals Class: Complete Study Notes
 
-*Built from the 3-hour “Fundamentals of Data Engineering” transcript. Written as if you are 15 and brand new: every idea gets a real-life analogy, a diagram, a worked example and interview questions.*
 
 ## How to Use These Notes
 
@@ -10,25 +9,6 @@
 - Presenter’s tip: draw the analogies in your own notebook. Silly drawings are far easier to remember than formal definitions.
 - Where I add something that was **not** in the video (extra examples, SQL, corrections), I mark it as *(extra)* so you know the difference.
 
-### Fixing the Auto-Caption Typos
-
-The transcript was auto-generated, so many terms are garbled. Here is the decoder:
-
-| Transcript says | It actually means |
-| --- | --- |
-| olp, oltp, OAB, oap, olab | **OLTP** (online transactional processing) and **OLAP** (online analytical processing) |
-| pocket file, pocket | **Parquet** (a column-based file format) |
-| AO | **Avro** (a row-based file format) |
-| aure, your (as in “your data Factory”) | **Azure** |
-| medalin, midlin | **Medallion** (architecture) |
-| keyal | **Azure Key Vault** |
-| perview | **Microsoft Purview** |
-| ADLs Gen 2 | **ADLS Gen2** (Azure Data Lake Storage Gen2) |
-| schema evaluation | **Schema evolution** |
-| tar schema | **Star schema** |
-| synaps | **Azure Synapse Analytics** |
-| wcape red | Most likely **Teradata**, a classic on-premise warehouse (the caption is unclear, so verify) |
-| dataism solution | data warehouse solution |
 
 ## The Big Picture (Read This First)
 
