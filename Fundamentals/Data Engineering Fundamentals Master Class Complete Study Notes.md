@@ -361,8 +361,6 @@ Without those conversations, you would guess region from addresses, get it wrong
 
 **Q4. Why should a data engineer talk regularly to both upstream and downstream teams?** **A:** Downstream tells you what is needed, upstream controls what is available. Without both conversations you build the wrong thing or you break when sources change.
 
-**Q5. Is a data analyst “below” a data engineer because they are downstream?** **A:** No. Upstream/downstream only describes the direction of data flow, not seniority.
-
 ---
 
 ## 4. OLTP vs OLAP: The Two Kinds of Databases
