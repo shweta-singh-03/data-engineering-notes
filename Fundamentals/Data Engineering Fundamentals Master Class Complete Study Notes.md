@@ -500,7 +500,6 @@ GROUP  BY region;
 
 ⚠️ **Common mistake:** running heavy analytical reports directly on the OLTP database. It slows down the live app for real customers.
 
-✅ **Checkpoint:** Fill in the blanks. OLTP is for \_\_\_\_ and updates and is a \_\_\_\_ for you. OLAP is for \_\_\_\_ and is built by \_\_\_\_.
 
 ### Interview Questions
 
