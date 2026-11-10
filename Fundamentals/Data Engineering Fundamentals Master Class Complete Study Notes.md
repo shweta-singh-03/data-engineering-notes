@@ -822,16 +822,7 @@ The diary stays short and fast to add up. The books give meaning to the IDs.
 | 1 | Honey | Food |
 | 2 | Shirt | Clothing |
 
-```sql
--- A typical warehouse question: revenue by city and product category
-SELECT  c.city,
-        p.category,
-        SUM(f.amount) AS revenue
-FROM    fact_sales   f
-JOIN    dim_customer c ON f.customer_key = c.customer_key
-JOIN    dim_product  p ON f.product_key  = p.product_key
-GROUP BY c.city, p.category;
-```
+
 
 ### 8.4 Star schema
 
@@ -906,7 +897,7 @@ A **snowflake schema** is the same idea, with one difference: **dimensions are l
 
 ## 9. Slowly Changing Dimensions (SCD)
 
-The presenter ranks this in his **top three most important topics**, because you use it in almost every project.
+It is the **top three most important topics**, because you use it in almost every project.
 
 ### 9.1 The problem
 
