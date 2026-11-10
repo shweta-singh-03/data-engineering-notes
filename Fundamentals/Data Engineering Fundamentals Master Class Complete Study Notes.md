@@ -913,7 +913,6 @@ Dimensions hold descriptive data, and descriptive data **changes slowly over tim
 | 2 | Shirt | Clothing |
 | 3 | Comb | Clothing |
 
-*(The transcript says “com”, which is most likely “comb”.)*
 
 **The change in the source:** product 3 (Comb) is no longer “Clothing”. Its category becomes **Hair Accessories**. How should the dimension handle this? There are four common answers, Types 0, 1, 2 and 3. (Types 4 and 6 exist but the presenter says we don’t deal with them.)
 
